@@ -1,0 +1,17 @@
+
+.contenor{
+    background:url(rounak\ patel\ k.jpg) ;
+    background-position: center;
+    background-size: cover;
+    width: 60%;
+    margin: auto;
+    padding: 0%;
+}
+.contenor h1{
+    font-size: 60px;
+    color: rgba(255, 0, 0, 0.856);
+    font-weight: 400;
+}
+.contenor ol{
+    color: white;
+}
